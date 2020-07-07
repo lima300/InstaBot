@@ -49,7 +49,7 @@ class InstagramBot:
 
 
 
-bot = InstagramBot("otaviolimasoares", "123Po@lkj!")
+bot = InstagramBot("lisufhuahbçsdfhb", "hfnkjbzfsçb")
 bot.login()
 bot.like_photo("marketing")
 
